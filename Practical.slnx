@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Practical.Benchmarks/Practical.Benchmarks.csproj" />
+  <Project Path="Practical.Tests/Practical.Tests.csproj" />
+  <Project Path="Practical/Practical.csproj" />
+</Solution>
